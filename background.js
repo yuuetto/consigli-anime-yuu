@@ -40,7 +40,6 @@ ctx.shadowColor="rgba(255, 0, 200, 0.9)"
 })
 
 requestAnimationFrame(animate)
-
 }
 
 animate()
